@@ -3,19 +3,8 @@
   <h2 align="center">User Interfaces for Humans<sup>TM</sup></h2>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://www.dropbox.com/s/6wzf3ebmj97v4zs/PySimpleGUI-GitHub-Udemy-Course.png?raw=1" width=200 alt="PySimpleGUI Udemy Course">
-    </td>
-    <td>
-      <h5>apply coupon for discount:<br>522B20BF5EF123C4AB30</h6>
-      <a href="https://www.udemy.com/course/pysimplegui/?couponCode=522B20BF5EF123C4AB30">click here to visit course page</a>
-    </td>
-  </tr>
-</table>
 
-
+**This is a fork of the original PySimpleGUI done simply to preserve the state of the project with the last open source version. PySimpleGUI is now a commercial, closed-source project**
 
 Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.  The window definition is simplified by using Python core data types understood by beginners (lists and dictionaries). Further simplification happens by changing event handling from a callback-based model to a message passing one.  
 
@@ -25,13 +14,6 @@ Some programs are not well-suited for PySimpleGUI however.  By definition, PySim
 
 [Japanese version of this readme](https://github.com/PySimpleGUI/PySimpleGUI/blob/master/readme.ja.md).
   
-PySimpleGUI needs your support.  If you find PySimpleGUI useful, please consider sponsoring the project on GitHub or BuyMeACoffee.  It's expensive working full-time on PySimpleGUI and also paying for ongoing expenses (domains, artists, software, consultants, sponsoring open source projects).  
-
-<a href="https://www.buymeacoffee.com/PySimpleGUI" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
-
-<a href="https://github.com/sponsors/PySimpleGUI" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
-
-
 <hr>
 
 # Statistics  📈
