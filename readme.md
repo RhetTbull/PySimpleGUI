@@ -16,18 +16,6 @@ Some programs are not well-suited for PySimpleGUI however.  By definition, PySim
   
 <hr>
 
-# Statistics  📈
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=PySimpleGUI&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true">
-  
-  
-</p>
-
-
-<hr>
-
 <!-- Interesting stats but kinda cluttered [Alt](https://repobeats.axiom.co/api/embed/90d8cdfa8cb37d70903aa52f5b3592035330c3d6.svg "Repobeats analytics image") -->
 
 # What Is PySimpleGUI ❓
